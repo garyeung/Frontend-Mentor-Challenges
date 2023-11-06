@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [News Homepage](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/news-homepage-main{:target="_blank"})
+- Solution URL: [News Homepage](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/news-homepage-main)
 - Live Site URL: [News Homepage live site](https://garyeung.github.io/Frontend-Mentor-Challenges/news-homepage-main)
 
 ## My process
