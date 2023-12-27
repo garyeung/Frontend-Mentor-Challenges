@@ -46,7 +46,7 @@ interface InfoItemProps {name: string, message: string}
 
 function InfoItem({name,message}: InfoItemProps){
     return (
-        <div className="lg:border-r lg:border-r-dark-gray last:border-0 lg:text-left lg:py-1 lg:pr-8 lg:pl-4">
+        <div className="lg:border-l lg:border-l-dark-gray first:border-0 lg:text-left lg:py-1 lg:pr-8 lg:pl-4">
             <span className="text-dark-gray uppercase font-bold text-xs">{name}</span>
             <p className="text-very-dark-gray font-bold text-lg lg:text-xl lg:font-medium">{message}</p>
         </div>
