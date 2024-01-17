@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Interactive Comments Solution](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/interactive-comments-section-main)
-- Live Site URL: [Interactive Comments Live](https://garyeung.github.io/Frontend-Mentor-Challenges/imteractive-comments-section-main)
+- Live Site URL: [Interactive Comments Live](https://garyeung.github.io/Frontend-Mentor-Challenges/interactive-comments-section-main)
 
 ## My process
 

@@ -31,5 +31,5 @@ This is the folder where I submit projects to Frontend Mentor.
 
 #### 7. Interactive Comments Section Main
 - Solution URL: [Interactive Comments Solution](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/interactive-comments-section-main)
-- Live Site URL: [Interactive Comments Live](https://garyeung.github.io/Frontend-Mentor-Challenges/imteractive-comments-section-main)
+- Live Site URL: [Interactive Comments Live](https://garyeung.github.io/Frontend-Mentor-Challenges/interactive-comments-section-main)
 
