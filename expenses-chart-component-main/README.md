@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Expenses Chart Solution](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/expenses-chart-component-main)
-- Live Site URL: [Expenses Chart Live](https://garyeung.github.io/Frontend-Mentor-Challenges/expenses-chart-components-main)
+- Live Site URL: [Expenses Chart Live](https://garyeung.github.io/Frontend-Mentor-Challenges/expenses-chart-component-main)
 
 ## My process
 
