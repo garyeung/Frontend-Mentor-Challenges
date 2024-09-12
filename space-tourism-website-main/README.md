@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Space Tourism Website Solution](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/space-tourism-website-main)
-- Live Site URL: [Space Tourism Website Live](https://garyeung.github.io/Frontend-Mentor-Challenges/space-tourism-website-main)
+- Live Site URL: [Space Tourism Website Live](https://space-tourism-webisite.vercel.app/)
 
 
 ## My process
